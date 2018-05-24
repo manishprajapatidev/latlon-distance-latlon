@@ -1,0 +1,24 @@
+{
+    "name": "latlon-distance-latlon",
+    "version": "1.0.0",
+    "description": "This package calculates distance between two coordinates.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/manprajapat/latlon-distance-latlon.git"
+    },
+    "keywords": [
+        "lat",
+        "long",
+        "distance"
+    ],
+    "author": "Manish Prajapati",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/manprajapat/latlon-distance-latlon/issues"
+    },
+    "homepage": "https://github.com/manprajapat/latlon-distance-latlon#readme"
+}
